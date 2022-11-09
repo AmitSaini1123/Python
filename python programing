@@ -1,1 +1,9 @@
 
+
+#How can we take an input from the user in Python?
+
+username = input("Enter your Name:")
+userage = input("Enter your Age:")
+
+print("Username is :"+username)
+print("userage is :"+userage)
